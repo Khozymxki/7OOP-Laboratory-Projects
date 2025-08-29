@@ -1,6 +1,11 @@
-# 7OOP Laboratory Projects
-This repo is for Laboratory Activities
+# 7OOP Portfolio Laboratory Activities
 
-
-### 😏 ABOUT ME
 ---
+
+## 💻 Languages
+- C  
+- Java  
+- Python  
+
+---
+
