@@ -1,7 +1,7 @@
 # Object-Oriented Programming Portfolio
 
 <p align="center">
-  <img src="https://github.com/Khozymxki/7OOP-Laboratory-Projects/blob/main/Images/Picsart_25-08-30_01-40-35-063.png" width="380" height="440"/>
+  <img src="https://github.com/Khozymxki/7OOP-Laboratory-Projects/blob/main/Images/Picsart_25-08-30_01-40-35-063.png" width="365" height="440"/>
 </p>
 
 
