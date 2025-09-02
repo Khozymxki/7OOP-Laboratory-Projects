@@ -15,11 +15,16 @@ Every activity, project, and task here reflects the skills I’m building and th
 
 ---
 
-### 👨‍🎓 Education Background
+
+---
+
+### 👨‍🎓 Educational Background
 - College: City College of Angeles⏳
 - Senior High School: Malabanias Integrated School🎓
 - Junior High School: Malabanias Integrated School✅
 - Elementary: Malabanias Integrated School✅
+
+---
 
 ### 💻 PROGRAMMING LANGUAGE
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
