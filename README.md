@@ -28,11 +28,12 @@ Every activity, project, and task here reflects the skills I’m building and th
 
 ### 📂 OOP ACTIVITIES & PROJECTS
 
-- [Activity 1 - Pair](https://your-link-here)
-- [Activity 1 - ](https://your-link-here)
-- [Activity 2 – Title Here](https://your-link-here)
-- [Activity 3 – Title Here](https://your-link-here)
-- [Activity 4 – Title Here](https://your-link-here)
+- [Paired Task 1](https://drive.google.com/file/d/1rZwv8nApK9FKGrioCOxIUI4OFvXD3YmZ/view?usp=drivesdk)
+- [Midterm Lab Task 1](https://docs.google.com/document/d/1Rlq0bU0gaoUtf6FesOjKyufZTFmXT865/edit?usp=drivesdk&ouid=103192213915926230417&rtpof=true&sd=true)
+- [Midterm Lab Task 2](https://drive.google.com/file/d/1Lvf_pDhJAtmOi2EwaDvWu43UF3teQWG2/view?usp=drivesdk)
+- [Midterm Lab Task 3](https://drive.google.com/file/d/1AAlUWpu3pVPI-oMQN3ndWh7_x_DXKZX4/view?usp=drivesdk)
+- [Midterm Lab Task 4](https://drive.google.com/file/d/1CBzaodSHzVyMfEF5YixAj0PvM0hg56c2/view?usp=drivesdk)
+- [Midterm Lab Task 5](https://docs.google.com/document/d/1S4UFAEApZUGjLdXdHXInNMNAy1OO5BH2/edit?usp=drivesdk&ouid=103192213915926230417&rtpof=true&sd=true)
 
 ---
 
